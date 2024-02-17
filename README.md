@@ -27,7 +27,7 @@ Created using <strong>[Tinkercad](https://www.tinkercad.com/)</strong>
 11. [Increase LED blink delay](/Codes/q361.ino)
    - <img src="/Connections/Connections_q361.png" width="500">
 12. [Vary LED brightness with buttons](/Codes/q381.ino)
-    - <img src="/Connections/Connections_q381.png" width="500">
+   - <img src="/Connections/Connections_q381.png" width="500">
 
       
 

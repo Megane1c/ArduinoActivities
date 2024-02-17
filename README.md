@@ -7,11 +7,11 @@ Created using <strong>[Tinkercad](https://www.tinkercad.com/)</strong>
 1. [Fastest finger first](/Codes/q1.ino)
    - <img src="/Connections/Connections_q1.png" width="500">
 2. [Janken](/Codes/q721.ino)
-    - <img src="/Connections/Connections_q721.png" width="500">
+   - <img src="/Connections/Connections_q721.png" width="500">
 3. [Capture flag](/Codes/q731.ino)
-    - <img src="/Connections/Connections_q731.png" width="500">
+   - <img src="/Connections/Connections_q731.png" width="500">
 4. [Add binary](/Codes/l6_supplementary_1.ino)
-     - <img src="/Connections/Connections_l6_supplementary_1.png" width="500">
+   - <img src="/Connections/Connections_l6_supplementary_1.png" width="500">
 5. [Arithmetic and Logic operations](/Codes/q371.ino)
    - Console output
 6. [Print potentiometer value](/Codes/l4_accuracy_1.ino)
